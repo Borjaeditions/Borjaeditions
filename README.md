@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Borjaeditions
-- 👀 I’m interested in al Web aplications
+- 👀 I’m interested in all Web aplications
 - 🌱 I’m currently learning Communications and Electronics Engineering, Flutter, JS, python and more
 - 💞️ I’m looking to collaborate on aplications mobiles
 - 📫 How to reach me ... @Borjaeditions
