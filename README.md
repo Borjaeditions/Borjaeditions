@@ -1,5 +1,4 @@
-# 👋 Hola, soy Alejandro Borja Hernández  
-# 👋 Hi, I'm Alejandro Borja Hernández
+# 👋 Hola, soy Alejandro Borja Hernández / Hi, I'm Alejandro Borja Hernández
 
 Soy Ingeniero en Comunicaciones y Electrónica, especializado programación. Actualmente estoy por concluir mi Maestría en Ciencias en Sistemas Computacionales Móviles en el Instituto Politécnico Nacional (IPN).  
 I'm an Electronics and Communications Engineer with a specialization in programming. I'm currently finishing my Master's degree in Mobile Computational Systems at the Instituto Politécnico Nacional (IPN).
