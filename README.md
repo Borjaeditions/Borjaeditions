@@ -1,73 +1,207 @@
+
 <div align="center">
 
 # Hi, I'm Alejandro Borja 👋
 
-### Software Engineer · Backend & DevOps · Mobile Systems Research
+### Software Engineer | Backend & DevOps | Mobile Development
 
-*Building reliable software, automating workflows, and exploring intelligent systems.*
+**Building reliable software, automating workflows, and exploring intelligent systems.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20DevOps%20%7C%20AI-22272E?style=flat-square)
+📍 Mexico 🇲🇽
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-I'm a **Communications and Electronics Engineer** with professional experience in software operations, automation, and data workflows. I enjoy working across the stack—from building APIs and services to deploying and maintaining the infrastructure behind them.
+I'm a **Communications and Electronics Engineer** from the **Instituto Politécnico Nacional (IPN)**, with experience in software development, automation, backend systems, and IT infrastructure.
 
-- 💼 **Professional background:** At BBVA, worked with Jenkins to monitor jobs and troubleshoot failures, and developed Unix/Shell automations for scheduled data extraction and ETL workflows.
-- 🎓 **Academic background:** Completed the coursework for an **M.Sc. in Mobile Computing Systems** at Instituto Politécnico Nacional (IPN); thesis presentation and defense pending.
-- 🔬 **Research:** Exploring ways to mitigate the cold-start problem in educational recommender systems using implicit interaction data and interactive mobile experiences.
-- 🛠️ **Hands-on interests:** Backend services, containerization, Linux servers, networking, and self-hosted applications.
-- 🌎 **Open to:** Software engineering and DevOps opportunities, including international collaboration.
+I have completed the coursework for my **Master of Science in Mobile Computing Systems** at IPN-ESCOM and am currently working toward my thesis defense.
 
-## Tech stack
+My professional background includes working with enterprise software operations, automated data processing, and troubleshooting production workflows.
 
-**Languages & development**
+I enjoy building software solutions, experimenting with new technologies, and understanding how systems work at every level — from application development to networking and server infrastructure.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+- 🔭 Working on backend systems, microservices, and personal infrastructure projects.
+- 📱 Interested in mobile development using **Flutter, Dart, Java, and Android**.
+- 🐳 Exploring containerization, cloud services, and DevOps practices.
+- 🧠 Researching **Educational Recommender Systems**, implicit user profiling, and cold-start mitigation.
+- ⚡ Passionate about software engineering, electronics, networking, and distributed systems.
 
-**Backend & data**
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+## 🛠️ Technical Skills
 
-**DevOps & infrastructure**
+### 💻 Programming Languages
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,dart,js,ts,python,bash,kotlin" />
+</p>
 
-## What I'm building & exploring
+### 🌐 Backend & Web Development
 
-| Area | Work |
-| --- | --- |
-| **Modular game server platform** | Microservice-based management of Minecraft worlds, authentication, users, and container lifecycle. |
-| **Home lab & self-hosting** | Linux server administration, Docker services, private networking, media hosting, and infrastructure experiments. |
-| **Educational recommendation research** | A mobile interaction-based approach to learning user preferences without lengthy onboarding questionnaires. |
-| **Cloud experimentation** | Local AWS-compatible service experimentation for storage, messaging, and application integrations. |
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,html,css" />
+</p>
 
-> Some work is experimental, academic, or hosted privately. Public repositories and technical write-ups will be linked as they become available.
+- RESTful API development
+- Microservices architecture
+- Backend integrations
+- Authentication and authorization
+- WebSockets
+- Data processing and automation
 
-## Current interests
+### 📱 Mobile Development
 
-`Distributed systems` · `API design` · `DevOps automation` · `Mobile development` · `Recommender systems` · `Applied AI`
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin" />
+</p>
+
+- Flutter and Dart
+- Android development
+- REST API integration
+- MVVM and MVC architectural patterns
+- Mobile application development
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+- SQL Server
+- SQL queries and reporting
+- Data extraction and transformation
+- ETL workflows
+
+### ⚙️ DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,jenkins,nginx,cloudflare" />
+</p>
+
+- Linux server administration
+- Docker and containerized applications
+- Shell/Bash scripting
+- Jenkins job monitoring and troubleshooting
+- Git version control
+- Network configuration and VPNs
+- Reverse proxies and service deployment
+- Automated workflows
+
+### ☁️ Cloud & Distributed Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux" />
+</p>
+
+- AWS-compatible local cloud environments
+- Object storage and messaging services
+- API-based integrations
+- Distributed application architectures
+- Self-hosted infrastructure
+
+---
+
+## 💼 Professional Experience
+
+### Software Operations & Automation — BBVA
+
+Experience supporting enterprise software operations and automated data workflows.
+
+**Key responsibilities and technologies:**
+
+- Monitored automated executions using Jenkins.
+- Investigated and resolved execution failures.
+- Developed Shell/Bash scripts for Unix environments.
+- Automated database extraction and data processing tasks.
+- Worked with ETL processes involving extraction, transformation, and loading.
+- Used Git for source code version control.
+- Supported operational reliability and troubleshooting.
+
+---
+
+## 🚀 Projects & Areas of Interest
+
+### 🧩 Microservices & Backend Architecture
+
+Development and experimentation with modular backend systems using Node.js, NestJS, REST APIs, MongoDB, and Docker.
+
+Areas include:
+
+- API gateways
+- Authentication and JWT
+- User management
+- Service communication
+- Container orchestration and deployment
+
+### 🖥️ Home Lab & Self-Hosted Infrastructure
+
+Personal infrastructure environment focused on learning, experimentation, and service hosting.
+
+Technologies and areas:
+
+- Ubuntu Server
+- Dell PowerEdge servers
+- Docker
+- Tailscale VPN
+- Reverse proxies
+- Network administration
+- Self-hosted applications
+- Virtualization and distributed services
+
+### ☁️ Cloud Services Experimentation
+
+Experimentation with AWS-compatible services in local environments, including:
+
+- Amazon S3-compatible object storage
+- SQS and SNS messaging
+- DynamoDB
+- Lambda
+- API Gateway
+- Cloud service integration
+
+### 🎓 Educational Recommender Systems Research
+
+Master's thesis research focused on mitigating the **cold-start problem in educational recommender systems**.
+
+Research interests include:
+
+- Implicit user profiling
+- Interactive mobile interfaces
+- Educational resource recommendation
+- Large Language Models
+- User behavior analysis
+- Recommendation evaluation metrics
+
+The research explores how interactive activities can help infer user characteristics and improve initial recommendations without relying exclusively on explicit questionnaires.
+
+---
+
+## 📚 Education
+
+**Instituto Politécnico Nacional (IPN)**
+
+🎓 **Master of Science in Mobile Computing Systems**
+
+Coursework completed — thesis preparation and defense pending.
+
+🎓 **Engineering in Communications and Electronics**
+
+---
+
+## 🤝 Connect With Me
+
+I'm interested in software engineering, backend development, DevOps, mobile technologies, and opportunities to collaborate on interesting technical projects.
+
+- 💼 LinkedIn: [My Professional Profile](https://www.linkedin.com/)
+- 💻 GitHub: [My Repositories](https://github.com/YOUR_USERNAME)
 
 ---
 
 <div align="center">
 
-**Always learning. Always building.**
-
-*Thanks for stopping by!*
+### "Keep learning, keep building, keep improving."
 
 </div>
