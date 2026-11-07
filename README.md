@@ -1,58 +1,73 @@
-# 👋 Hola, soy Alejandro Borja Hernández / Hi, I'm Alejandro Borja Hernández
+<div align="center">
 
-Soy Ingeniero en Comunicaciones y Electrónica, especializado programación. Actualmente estoy por concluir mi Maestría en Ciencias en Sistemas Computacionales Móviles en el Instituto Politécnico Nacional (IPN).  
-I'm an Electronics and Communications Engineer with a specialization in programming. I'm currently finishing my Master's degree in Mobile Computational Systems at the Instituto Politécnico Nacional (IPN).
+# Hi, I'm Alejandro Borja 👋
 
-## 💻 Sobre mí / About Me
+### Software Engineer · Backend & DevOps · Mobile Systems Research
 
-- 🔧 Me especializo en desarrollo backend con **Node.js**, **MongoDB** y **Docker**, con un enfoque fuerte en **arquitecturas de microservicios**.  
-  I specialize in backend development using **Node.js**, **MongoDB**, and **Docker**, with a strong focus on **microservices architecture**.
-- 🛡️ Apasionado por la **seguridad informática** y la implementación de **infraestructura segura**.  
-  Passionate about **cybersecurity** and building **secure infrastructure**.
-- 🎮 Desarrollo plataformas para la administración automatizada de **servidores de Minecraft**, incluyendo la creación dinámica de contenedores y paneles de control personalizados.  
-  I develop platforms for automated **Minecraft server** management, including dynamic container creation and custom control panels.
-- ☁️ Configuro y mantengo servidores físicos (Dell PowerEdge, HP ProLiant) con servicios Dockerizados y gestión de red local.  
-  I configure and maintain physical servers (Dell PowerEdge, HP ProLiant) running Dockerized services and managing local networks.
-- 📚 Mis proyectos académicos se centran en **sistemas de recomendación** para ambientes educativos y **redes neuronales convolucionales**.  
-  My academic projects focus on **recommendation systems** for educational environments and **convolutional neural networks**.
+*Building reliable software, automating workflows, and exploring intelligent systems.*
 
-## 🚀 Tecnologías y herramientas / Technologies and Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20DevOps%20%7C%20AI-22272E?style=flat-square)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat-square)
-![Tailscale](https://img.shields.io/badge/Tailscale-0044FF?logo=tailscale&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![OPNsense](https://img.shields.io/badge/OPNsense-orange?style=flat-square)
-
-- **Lenguajes / Languages**: JavaScript (Node.js), SQL, Bash, Java, PL/SQL  
-- **Bases de datos / Databases**: MongoDB, MySQL, Oracle  
-- **Infraestructura / Infrastructure**: Docker, Nginx, Cloudflare, Tailscale, OPNsense  
-- **Otras herramientas / Other Tools**: Git, Postman
-
-## 🧠 Actualmente trabajando en... / Currently working on...
-
-- 🧱 Plataforma modular con microservicios para administración de servidores Minecraft (proyecto propio)  
-  Modular platform with microservices for Minecraft server management (personal project)
-- 🔐 Integración de JWT, control de roles, subida de archivos, subdominios dinámicos y proxy reverso seguro  
-  JWT integration, role-based access control, file upload, dynamic subdomains, and secure reverse proxy
-- 🎓 Tesis de maestría sobre sistemas de recomendación educativos con recolección de datos implícitos  
-  Master's thesis on educational recommendation systems using implicit data collection
-
-## 🌐 Sitios y enlaces / Sites and Links
-
-- 🔗 www.borjaeditions.com 
-- 📬 Contacto / Contact: borja_and_borjaeditions@live.com
+</div>
 
 ---
 
-> “Automatizo ideas, protejo sistemas, y construyo soluciones desde la raíz.”  
-> “I automate ideas, secure systems, and build solutions from the ground up.”
+## About me
 
-<!---
-Borjaeditions/Borjaeditions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Communications and Electronics Engineer** with professional experience in software operations, automation, and data workflows. I enjoy working across the stack—from building APIs and services to deploying and maintaining the infrastructure behind them.
+
+- 💼 **Professional background:** At BBVA, worked with Jenkins to monitor jobs and troubleshoot failures, and developed Unix/Shell automations for scheduled data extraction and ETL workflows.
+- 🎓 **Academic background:** Completed the coursework for an **M.Sc. in Mobile Computing Systems** at Instituto Politécnico Nacional (IPN); thesis presentation and defense pending.
+- 🔬 **Research:** Exploring ways to mitigate the cold-start problem in educational recommender systems using implicit interaction data and interactive mobile experiences.
+- 🛠️ **Hands-on interests:** Backend services, containerization, Linux servers, networking, and self-hosted applications.
+- 🌎 **Open to:** Software engineering and DevOps opportunities, including international collaboration.
+
+## Tech stack
+
+**Languages & development**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps & infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+## What I'm building & exploring
+
+| Area | Work |
+| --- | --- |
+| **Modular game server platform** | Microservice-based management of Minecraft worlds, authentication, users, and container lifecycle. |
+| **Home lab & self-hosting** | Linux server administration, Docker services, private networking, media hosting, and infrastructure experiments. |
+| **Educational recommendation research** | A mobile interaction-based approach to learning user preferences without lengthy onboarding questionnaires. |
+| **Cloud experimentation** | Local AWS-compatible service experimentation for storage, messaging, and application integrations. |
+
+> Some work is experimental, academic, or hosted privately. Public repositories and technical write-ups will be linked as they become available.
+
+## Current interests
+
+`Distributed systems` · `API design` · `DevOps automation` · `Mobile development` · `Recommender systems` · `Applied AI`
+
+---
+
+<div align="center">
+
+**Always learning. Always building.**
+
+*Thanks for stopping by!*
+
+</div>
